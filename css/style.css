@@ -1,0 +1,67 @@
+
+.header {
+    background: #fff;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .12), inset 0 -1px 0 0 #dadce0;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.header__container {
+    margin: 0 150px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 60px;
+    justify-content: space-between;
+    padding: 0 72px;
+}
+
+.header .btn{
+    padding: 12px 24px;
+    background: #ffffff;
+    color: #565594;
+    border: none;
+}
+
+
+.header .btn-login{
+    background-color: #565594;
+    color: #ffffff;
+    border-color: #565594;
+}
+
+.header .btn-login:hover{
+    color: #ffffff;
+    background-color: #383786;
+}
+
+h1{
+    font-size: 64px !important;
+    color: black;
+}
+
+.btn-email{
+    padding: 9px 24px;
+    background-color: #565594;
+    color: #ffffff;
+    border-color: #565594;
+}
+
+h6{
+    color: #7B8AB3 !important;
+}
+
+h4{
+    color: #ffffff;
+    margin-left: 290px;
+    margin-right: 750px;
+}
+
+.btn-submit{
+    padding: 9px 24px;
+    background-color: #565594;
+    color: #ffffff;
+    border-color: #565594;
+}
